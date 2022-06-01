@@ -1,9 +1,10 @@
 import React from "react";
+import { CTAbutton } from "./CTAbutton";
 
 export const Navbar = () => {
   return (
     <div>
-      <nav className=" relative container mx-auto p-6">
+      <nav className="relative container mx-auto p-6">
         <div className="flex items-center justify-between">
           <div className="text-xl">Logo</div>
           <div className="hidden md:flex space-x-3">
@@ -23,19 +24,11 @@ export const Navbar = () => {
               Community
             </a>
           </div>
-          <div className="flex md:hidden">
-            <div className="space-y-1.5">
-              <span className="block w-7 h-0.5 bg-gray-600"></span>
-              <span className="block w-7 h-0.5 bg-gray-600"></span>
-              <span className="block w-7 h-0.5 bg-gray-600"></span>
-            </div>
-          </div>
-          <a
-            href="https://#"
-            className="hidden md:block p-3  px-6 pt-2 text-white bg-brightRed rounded-full baseline hover:bg-brightRedLight"
-          >
-            Get Started
-          </a>
+          <CTAbutton
+              hover="hover:bg-brightRedLight"
+              textColor="text-white"
+              bgColor="bg-brightRed"
+            />
         </div>
       </nav>
     </div>
