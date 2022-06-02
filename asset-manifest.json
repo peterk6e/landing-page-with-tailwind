@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/landing-page-with-tailwind/static/css/main.ea0d2d1d.css",
+    "main.js": "/landing-page-with-tailwind/static/js/main.8fcdf771.js",
+    "static/media/illustration.svg": "/landing-page-with-tailwind/static/media/illustration.174bf51d261edeee9b749082216053af.svg",
+    "static/media/twitter.svg": "/landing-page-with-tailwind/static/media/twitter.46104614c2de1d6c9211ef1eb705b206.svg",
+    "index.html": "/landing-page-with-tailwind/index.html",
+    "static/media/instagram.svg": "/landing-page-with-tailwind/static/media/instagram.b542d170aef0f8657be3e2126d08dadd.svg",
+    "static/media/facebook.svg": "/landing-page-with-tailwind/static/media/facebook.2b19f84b3452eefc2f808d7da68b16c2.svg",
+    "static/media/bg-tablet-pattern.svg": "/landing-page-with-tailwind/static/media/bg-tablet-pattern.b6e5a75842291635315f.svg",
+    "main.ea0d2d1d.css.map": "/landing-page-with-tailwind/static/css/main.ea0d2d1d.css.map",
+    "main.8fcdf771.js.map": "/landing-page-with-tailwind/static/js/main.8fcdf771.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea0d2d1d.css",
+    "static/js/main.8fcdf771.js"
+  ]
+}
