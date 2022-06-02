@@ -1,5 +1,3 @@
-const { hasSelectionSupport } = require("@testing-library/user-event/dist/utils");
-
 module.exports = {
   content: [
     "./src/**/*.{js,jsx,ts,tsx}",
